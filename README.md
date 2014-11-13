@@ -1,4 +1,7 @@
 cart
 ====
 
-A praticing project to develop a small shopping cart system.
+This project is an exercise of using composer and PHPUnit.
+
+The scenario is from Chapter 5 of 
+[PHPUnit in Action](http://jaceju.gitbooks.io/phpunit-in-action/)
